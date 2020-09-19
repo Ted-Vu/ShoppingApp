@@ -1,0 +1,23 @@
+{
+  "name": "ShoppingApp",
+  "version": "1.0.0",
+  "description": "This is a shopping app built with Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ted-Vu/ShoppingApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ted-Vu/ShoppingApp/issues"
+  },
+  "homepage": "https://github.com/Ted-Vu/ShoppingApp#readme",
+  "dependencies": {
+    "electron": "^10.1.2"
+  }
+}
